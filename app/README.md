@@ -30,7 +30,7 @@ Replace main with the name of the Python file where your FastAPI app is defined,
 
 Access the API: After running the application, the API can be accessed at:
 
-arduino
+
 
 http://127.0.0.1:8000
 
